@@ -8,8 +8,7 @@ This project includes a complete light/dark mode system, optimized layout, and c
 
 ### 🌐 Live Demo
 You can view the deployed version of the project here:  
-https://real-estate-afshinsahrae.vercel.app/
-
+https://snapp-template-afshinsahrae.vercel.app/
 ---
 
 ### 🚀 Features
