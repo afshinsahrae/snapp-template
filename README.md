@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📄  Snapp Website Template (Next.js + TailwindCSS)
 
-## Getting Started
 
-First, run the development server:
+A fully responsive and modern recreation of the Snapp website interface, built using Next.js and TailwindCSS.  
+This project includes a complete light/dark mode system, optimized layout, and clean component structure suitable for learning or portfolio use.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🌐 Live Demo
+You can view the deployed version of the project here:  
+https://real-estate-afshinsahrae.vercel.app/
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🚀 Features
 
-## Learn More
+- ⚡ Built with Next.js 14 (App Router)
+- 🎨 Styled using TailwindCSS
+- 🌙 Dark Mode with smooth theme switching
+- 📱 Fully responsive on all screen sizes
+- 🧩 Component‑based and scalable structure
+- 🧼 Clean, readable, and maintainable code
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🛠️ Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Technology   | Purpose |
+|--------------|---------|
+| Next.js      | Framework for React with routing & optimization |
+| TailwindCSS  | Utility‑first CSS styling |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🎨 Dark Mode
+
+Dark mode is implemented using Tailwind’s built‑in dark: classes and a theme toggle stored in state.  
+The UI automatically adapts to system preferences as well.
+
+---
+
+
+### ⚙️ How to Run Locally
+
+1. Clone the repository:
+   ` https://github.com/afshinsahrae/snapp-template.git
+   `
+
+
+
+2. Install dependencies:
+   `
+   npm install
+   `
+
+3. Start the development server:
+   `
+   npm run dev
+   `
+
+4. Open the project in your browser: http://localhost:3000
+
+---
+
+### 📌 Notes
+
+- This is an educational UI project and not an official Snapp product.  
+- You can extend the template by adding more p
+
+---
+
+### 📄 License
+
+This project is licensed under the MIT License.
